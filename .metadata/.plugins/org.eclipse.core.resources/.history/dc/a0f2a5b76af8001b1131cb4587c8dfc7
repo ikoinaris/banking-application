@@ -1,0 +1,11 @@
+accounts.msg=Welcome to Loans Default Application
+accounts.build-version=3
+
+accounts.mailDetails.hostname=default-loans@ikoinaris.com
+accounts.mailDetails.port=9001
+accounts.mailDetails.from=default-loans@ikoinaris.com
+accounts.mailDetails.subject=Your Loans Details from Bank Default Environment
+
+accounts.activeBranches[0]=Mumbai
+accounts.activeBranches[1]=London
+accounts.activeBranches[2]=Washington

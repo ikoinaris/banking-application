@@ -1,0 +1,5 @@
+package com.microservices.accountsservice.entity;
+
+public class Properties {
+
+}
